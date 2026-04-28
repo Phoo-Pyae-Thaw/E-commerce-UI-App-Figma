@@ -19,9 +19,11 @@ Features
 * Pink theme inspired by modern delivery apps
 * Built using Auto Layout in Figma
 
--Figma Prototype
-
+-Figma Prototype design link
 https://www.figma.com/design/f1gEwjJNYvz3GFnbSdmDKa/E-commerce-UI-App?node-id=0-1&t=rb43MqiMYWSImE4v-1
+
+-Figma Prototype presentation link
+https://www.figma.com/proto/f1gEwjJNYvz3GFnbSdmDKa/E-commerce-UI-App?node-id=7-4&p=f&t=qvwhQSlLROLaHWXS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A4&show-proto-sidebar=1
 
 -Example Screenshots
 <img width="663" height="675" alt="Screenshot 2026-04-24 at 02 26 49" src="https://github.com/user-attachments/assets/40667332-f817-4e92-8b27-ca028a13aa77" />
